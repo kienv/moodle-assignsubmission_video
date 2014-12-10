@@ -1,5 +1,5 @@
-TAFE SA Moodle Video Assignment
-===============================
+Moodle Video Assignment Plugin
+==============================
 
 Installation instruction
 -----------------------
