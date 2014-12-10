@@ -9,7 +9,7 @@ Installation instruction
  * Upload the `video` folder to `<MOODLE ROOT>/mod/assign/submission/`
  * Log in to Moodle with your site administrator account
  * Go to Site Administration -> Notification to install the plugin
- * Enter plug-in configuration details and download the **videoassignment** app from Apps store or Google play to start using it
+ * Enter plug-in configuration details and download the **videoassignment** app from either Apps store or Google Play to start using it
 
 Video Assignment app links
 --------------------------
