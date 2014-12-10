@@ -1,6 +1,8 @@
 Moodle Video Assignment Plugin
 ==============================
 
+For Moodle > 2.6.x
+
 Installation instruction
 -----------------------
 
