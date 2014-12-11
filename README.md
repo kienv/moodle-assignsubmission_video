@@ -17,8 +17,8 @@ Video Assignment app links
 --------------------------
 
 * Google Play: coming soon
-* App store: [TAFE SA Moodle Video Assignment](https://itunes.apple.com/au/app/tafe-sa-moodle-video-assignment/id915686392?mt=8)
+* App store: coming soon
 
 License
 -------
-[GPL 2.0](http://www.gnu.org/licenses/gpl-2.0.html)
+[GPL 3.0](http://www.gnu.org/licenses/gpl-3.0.html)
